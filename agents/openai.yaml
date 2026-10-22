@@ -1,0 +1,6 @@
+interface:
+  display_name: "WoS 论文检索与精读"
+  short_description: "在 WoS 按相关性、引用影响与时效性筛选论文，获取合法全文并总结，保留来源与阅读状态"
+  default_prompt: "使用 $wos-literature-search，按我的主题及可用的机构入口在 WoS 检索，优先相关性并兼顾引用影响与时效性挑选 5 篇论文，获取合法全文并总结，说明检索范围、引用口径、版本和阅读状态。"
+policy:
+  allow_implicit_invocation: true
