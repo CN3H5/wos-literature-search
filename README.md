@@ -132,4 +132,6 @@ wos-literature-search/
 ```
 
 工作流详情见 [SKILL.md](SKILL.md)，按需查阅 [辅助说明](references/search-notes.md)。仓库仅提供技能说明，不包含论文全文或用户检索数据。
+更新于2026.10.23@CN3H5
+
 
